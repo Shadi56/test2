@@ -3,3 +3,5 @@ It is the second version of my report for agile project management.
 I am running my second session today which is on GitHub subject.
 
 It is up to 5pm today.
+
+It is the afternoon session now and we ar eworking on an article. after this we will work on push command. 
